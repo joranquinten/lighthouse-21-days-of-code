@@ -12,37 +12,33 @@ Given an array of volunteer names and an array of neighbourhood names, complete 
 
 Input:
 
-```
-    const volunteers = [
-      'Sally',
-      'Jake',
-      'Brian',
-      'Hamid'
-    ];
+```js
+const volunteers = ["Sally", "Jake", "Brian", "Hamid"];
 
-
-    const neighbourhoods = [
-      'Central Valley',
-      'Big Mountain',
-      'Little Bridge',
-      'Bricktown',
-      'Brownsville',
-      "Paul's Boutique",
-      'Clay Park',
-      'Fox Nest'
-    ];
+const neighbourhoods = [
+  "Central Valley",
+  "Big Mountain",
+  "Little Bridge",
+  "Bricktown",
+  "Brownsville",
+  "Paul's Boutique",
+  "Clay Park",
+  "Fox Nest"
+];
 ```
 
 Output:
 
-```
-2
+```js
+2;
 ```
 
 ## Resolution:
 
-```
-const doorToDoor = (volunteers, neighbourhoods) => {
-  return Math.floor((neighbourhoods || []).length / (volunteers || []).length)
-}
+Simple division of the two variables. The `(neighbourhoods = ['one'])` part makes sure we don't divide by zero, when no variable is provided.
+
+```js
+const doorToDoor = (volunteers = [], neighbourhoods = ["one"]) => {
+  return Math.floor(neighbourhoods.length / volunteers.length);
+};
 ```
