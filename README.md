@@ -4,20 +4,20 @@ This repo shows the resolutions of the November 2019 [Lighthouse 21 Days of Codi
 
 ## Assignments
 
-- [Day #01](assigenment-01.md)
-- [Day #02](assigenment-02.md)
-- [Day #03](assigenment-03.md)
-- [Day #04](assigenment-04.md)
-- [Day #05](assigenment-05.md)
-- [Day #06](assigenment-06.md)
-- [Day #07](assigenment-07.md)
-- [Day #08](assigenment-08.md)
-- [Day #09](assigenment-09.md)
-- [Day #10](assigenment-10.md)
-- [Day #11](assigenment-11.md)
-- [Day #12](assigenment-12.md)
-- [Day #13](assigenment-13.md)
-- [Day #14](assigenment-14.md)
+- [Day #01](assignment-01.md)
+- [Day #02](assignment-02.md)
+- [Day #03](assignment-03.md)
+- [Day #04](assignment-04.md)
+- [Day #05](assignment-05.md)
+- [Day #06](assignment-06.md)
+- [Day #07](assignment-07.md)
+- [Day #08](assignment-08.md)
+- [Day #09](assignment-09.md)
+- [Day #10](assignment-10.md)
+- [Day #11](assignment-11.md)
+- [Day #12](assignment-12.md)
+- [Day #13](assignment-13.md)
+- [Day #14](assignment-14.md)
 
 ## Disclaimer
 
