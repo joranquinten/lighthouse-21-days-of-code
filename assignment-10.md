@@ -1,4 +1,4 @@
-# Challenge #10 - SmartParking
+# Challenge #10 - SmartParking ([link](https://coding-challenge.lighthouselabs.ca/challenge/10))
 
 The parking lot in the Codeville Devtropolis Shopping Mall needs an upgrade, and you've decided this is the perfect opportunity to install a smart parking system.
 

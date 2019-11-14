@@ -1,4 +1,4 @@
-# Challenge #5 - Voting Station Calculation
+# Challenge #5 - Voting Station Calculation ([link](https://coding-challenge.lighthouselabs.ca/challenge/5))
 
 The election is looming, and the dutiful City of Codeville staff has finalized most of the details, except for one thing: where will citizens vote? There are hundreds of buildings in town, but there are very specific requirements for what constitutes an acceptable voting station. With very little time to decide, the city needs our help to sort through the building data.
 

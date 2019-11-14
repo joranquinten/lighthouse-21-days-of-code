@@ -1,4 +1,4 @@
-# Challenge #6 - Turn Out For What
+# Challenge #6 - Turn Out For What ([link](https://coding-challenge.lighthouselabs.ca/challenge/6))
 
 Phew, with our help the city staff were able to select the voting stations on time and the election went off without a hitch! Now that the votes have been cast, the Election staff needs to verify the votes by matching each voter's signature to their voter ID.
 

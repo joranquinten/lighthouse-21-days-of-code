@@ -1,4 +1,4 @@
-# Challenge #13 - All of the Lights
+# Challenge #13 - All of the Lights ([link](https://coding-challenge.lighthouselabs.ca/challenge/13))
 
 To make late-night driving and walking safer(and to save the city energy), you've decided to install smart street lights. These lights turn on and off automatically when they sense someone near by.
 

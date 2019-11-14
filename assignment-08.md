@@ -1,4 +1,4 @@
-# Challenge #8 - Trash to Treasure
+# Challenge #8 - Trash to Treasure ([link](https://coding-challenge.lighthouselabs.ca/challenge/8))
 
 The results are in, and the people of Codeville want you to focus on Smart City upgrades. You've decided to begin by replacing all of the city's trash cans with smart cans: when citizens toss their rubbish into the smart can, it automatically sorts items into waste, recycling, and compost bins.
 

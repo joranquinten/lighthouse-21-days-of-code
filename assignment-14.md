@@ -1,4 +1,4 @@
-# Challenge #14 - Ticket to Ride
+# Challenge #14 - Ticket to Ride ([link](https://coding-challenge.lighthouselabs.ca/challenge/14))
 
 The local transit system has been too expensive for too long! To encourage more people to use the bus, you are restructuring ticket pricing. From now on, passengers will be charged a dynamic price, which will depend on the number of people on the bus (peak times have higher fare!) and the distance that the passenger travels.
 

@@ -1,4 +1,4 @@
-# Challenge #7 - You Choose, (You Don't) Lose
+# Challenge #7 - You Choose, (You Don't) Lose ([link](https://coding-challenge.lighthouselabs.ca/challenge/7))
 
 The people of Codeville have spoken, and you have been elected mayor once again! Now it's time to get back to work. You need to decide which issues to focus on first for your new term in office. Using the dataset from voter surveys, determine the top three issues voters were most concerned about when choosing the new Codeville leadership.
 

@@ -1,4 +1,4 @@
-# Challenge #3 - Securing the Vote
+# Challenge #3 - Securing the Vote ([link](https://coding-challenge.lighthouselabs.ca/challenge/3))
 
 It looks like you've got a hold of your campaign for now. So you've been asked to turn your attention to making sure the election infrastructure is ready to go! Codeville County is using a new e-voting platform to make elections simpler and more secure. We need to test out the software to make sure it's working correctly before Election Day.
 

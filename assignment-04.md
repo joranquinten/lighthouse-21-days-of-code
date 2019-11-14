@@ -1,4 +1,4 @@
-# Challenge #4 - This is How You Remind Me (To Register To Vote)
+# Challenge #4 - This is How You Remind Me (To Register To Vote) ([link](https://coding-challenge.lighthouselabs.ca/challenge/4))
 
 Now that you've squashed all the bugs in the city's new voting software, it's time to jump back on the campaign trail. The election is coming up soon! You need to send out reminders to all Codeville citizens to encourage them to vote, but you don't want to spam people who have already registered. Use JavaScript to remove all registered voters from your contact list.
 

@@ -1,4 +1,4 @@
-# Challenge #2 - Something to Talk About
+# Challenge #2 - Something to Talk About ([link](https://coding-challenge.lighthouselabs.ca/challenge/2))
 
 Thanks to your tireless volunteers, the word is out that you're running for a second term, and the local media has come calling!
 

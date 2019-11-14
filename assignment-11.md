@@ -1,4 +1,4 @@
-# Challenge #11 - You Can't Hurry Transit
+# Challenge #11 - You Can't Hurry Transit ([link](https://coding-challenge.lighthouselabs.ca/challenge/11))
 
 You can't hurry love, or local transit in Codeville. While you've been hard at work on a solution to the larger transit woes, you've decided to implement a new system to at least be a little more transparent about wait times. The city will be installing a smart screen, at the busiest bus stop in town, that will show the estimated arrival times for each of the buses that stop there.
 

@@ -1,4 +1,4 @@
-# Challenge #9 - Driving Mayor Daisy
+# Challenge #9 - Driving Mayor Daisy ([link](https://coding-challenge.lighthouselabs.ca/challenge/9))
 
 As Mayor, you want one of your legacies to be bettering street design enough to improve traffic flow and reduce congestion. You've decided to start by installing special sensors on some streets to monitor how often cars pass by, and track their speeds.
 

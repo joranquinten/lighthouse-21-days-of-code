@@ -1,4 +1,4 @@
-# Challenge #12 - In the Air Tonight
+# Challenge #12 - In the Air Tonight ([link](https://coding-challenge.lighthouselabs.ca/challenge/12))
 
 The citizens of Codeville seem pleased with all the upgrades you're making to the local infrastructure. Next on your list to tackle is the air quality. You've decided that you want to install air pollution sensors around the city to monitor air quality and identify problem areas. We need to write the code for the sensors to trigger a special message when the air is too polluted.
 

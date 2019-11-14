@@ -1,4 +1,4 @@
-# Challenge #1 - Door to Door
+# Challenge #1 - Door to Door ([link](https://coding-challenge.lighthouselabs.ca/challenge/1))
 
 Our challenge begins in Codeville, a small but thriving town in Serverside, Canada, where you are the current mayor nearing the end of your first term. Election season is nearing, and this town needs you, so you've decided to run for a second term. However, you need some help to make sure the election and your campaign run smoothly. Enter JavaScript, a coding language sure to help you optimize the many elements of the upcoming election and (hopefully) secure your return as Mayor.
 
