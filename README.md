@@ -24,6 +24,7 @@ This repo shows the resolutions of the November 2019 [Lighthouse 21 Days of Codi
 - [Day #18](assignment-18.md)
 - [Day #19](assignment-19.md)
 - [Day #20](assignment-20.md)
+- [Day #21](assignment-21.md)
 
 ## Disclaimer
 
